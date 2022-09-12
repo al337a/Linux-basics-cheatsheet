@@ -1,2 +1,2 @@
-# Pentest-Cheatsheet
-101 pentest for dummies (Can be complemented)
+# Cheatsheet according to Linux basics for hackers
+Could be complemented
